@@ -1,5 +1,6 @@
 # Larry Plotter
 
-Esta serie de libros cuentan la historia de un hacker de leyenda.
+Esta serie de libros cuentan la historia de un hacker de leyenda.  conflicto
+
 
 **Alberto Casero**
